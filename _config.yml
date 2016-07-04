@@ -1,14 +1,14 @@
 layout_spectrum: 0.3414965264964849
 typography_spectrum: 0.236004687147215
 color:
-  brandStrength: 0.03750342596322298
-  lightness: 0.024860810488462448
-  saturation: 0.1742349718697369
-  rhythmicContrast: 0.2809586958028376
+  brandStrength: 0.20004123146645725
+  lightness: 0.7263598567806184
+  saturation: 0.12528135930188
+  rhythmicContrast: 0.9019291771110147
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: clynchfilm
