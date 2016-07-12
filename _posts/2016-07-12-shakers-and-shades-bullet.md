@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-12T07:26:32.217Z'
+datePublished: '2016-07-12T09:02:12.710Z'
+sourcePath: _posts/2016-07-12-shakers-and-shades-bullet.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Z38PBn7uJRk'
 keywords:
   - duration
@@ -17,7 +18,7 @@ author:
   - name: ShakersAndShadesVEVO
     url: 'https://www.youtube.com/user/ShakersAndShadesVEVO'
     avatar: {}
-dateModified: '2016-07-12T07:26:28.961Z'
+dateModified: '2016-07-12T08:04:15.397Z'
 title: Shakers & Shades - “Bullet”
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Z38PBn7uJRk&feature=applinks'
@@ -62,12 +63,11 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 description: >-
-  Music video for Bullet performed by Shakers & Shades. Inspired by artists such
-  as Arctic Monkeys and Jimi Hendrix, Shakers & Shades draw influence from a
-  classic Rock & Roll aesthetic.
+  Music video for “Bullet” performed by Shakers & Shades. Inspired by artists
+  such as Arctic Monkeys and Jimi Hendrix, Shakers & Shades draw influence from
+  a classic Rock & Roll aesthetic.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-07-12-shakers-and-shades-bullet.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -77,6 +77,6 @@ _type: VideoObject
 ---
 # Shakers & Shades - "Bullet"
 
-Music video for Bullet performed by Shakers & Shades. Inspired by artists such as Arctic Monkeys and Jimi Hendrix, Shakers & Shades draw influence from a classic Rock & Roll aesthetic.
+Music video for "Bullet" performed by Shakers & Shades. Inspired by artists such as Arctic Monkeys and Jimi Hendrix, Shakers & Shades draw influence from a classic Rock & Roll aesthetic.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FZ38PBn7uJRk%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZ38PBn7uJRk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZ38PBn7uJRk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
