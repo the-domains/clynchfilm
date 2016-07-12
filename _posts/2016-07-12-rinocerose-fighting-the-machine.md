@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-12T09:06:03.113Z'
+datePublished: '2016-07-12T09:06:08.735Z'
 isBasedOnUrl: 'https://vimeo.com/158068228'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-12T09:05:59.786Z'
+dateModified: '2016-07-12T09:06:08.022Z'
 title: Rinôçérôse - "Fighting the Machine"
 app_links: []
 publisher:
@@ -16,8 +16,8 @@ description: >-
   Celebrating 40 years of the punk movement, Rinôçérôse’s new video pays homage
   to some of the genre’s greatest legends with a no-nonsense, modern
   electro/punk twist.
-starred: false
 sourcePath: _posts/2016-07-12-rinocerose-fighting-the-machine.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
