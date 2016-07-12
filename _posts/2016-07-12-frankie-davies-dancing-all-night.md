@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T09:02:18.106Z'
+datePublished: '2016-07-12T09:06:29.577Z'
 sourcePath: _posts/2016-07-12-frankie-davies-dancing-all-night.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=nU1tl6nJYlQ'
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: FrankieDaviesVEVO
     url: 'https://www.youtube.com/user/FrankieDaviesVEVO'
     avatar: {}
-dateModified: '2016-07-12T08:08:57.247Z'
+dateModified: '2016-07-12T09:06:28.779Z'
 title: Frankie Davies - “Dancing All Night”
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=nU1tl6nJYlQ&feature=applinks'
@@ -66,7 +66,7 @@ description: >-
   A dance driven quasi-narrative video for “Dancing All Night”, by country
   singer-songwriter Frankie Davies.
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
