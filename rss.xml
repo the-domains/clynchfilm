@@ -4,14 +4,21 @@
         <description><![CDATA[C Lynch]]></description>
         <link>https://thegrid.ai/clynchfilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 08:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 09:02:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clynchfilm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Showreel]]></title>
             <description><![CDATA[<article><h1>Showreel</h1><p>2016 Showreel</p></article>]]></description>
             <link>https://vimeo.com/156086679</link>
             <guid isPermaLink="false">b1606361-4fd2-49b6-a33c-126d68173c41</guid>
-            <pubDate>Tue, 12 Jul 2016 08:13:11 GMT</pubDate>
+            <pubDate>Tue, 12 Jul 2016 08:13:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shakers & Shades - “Bullet”]]></title>
+            <description><![CDATA[<article><h1>Shakers & Shades - “Bullet”</h1><p>Music video for “Bullet” performed by Shakers & Shades. Inspired by artists such as Arctic Monkeys and Jimi Hendrix, Shakers & Shades draw influence from a classic Rock & Roll aesthetic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/30790f9f569faa6d3136f43ed5746f30/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FZ38PBn7uJRk%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Z38PBn7uJRk</link>
+            <guid isPermaLink="false">212c86cf-7ded-4f8e-80dc-b5835145325b</guid>
+            <pubDate>Tue, 12 Jul 2016 09:02:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Callooh Callay - 2015 Promo]]></title>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=nU1tl6nJYlQ</link>
             <guid isPermaLink="false">3d65d209-4485-4f36-9f34-1c069c9dc890</guid>
             <pubDate>Tue, 12 Jul 2016 08:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shakers & Shades - “Bullet”]]></title>
-            <description><![CDATA[<article><h1>Shakers & Shades - “Bullet”</h1><p>Music video for Bullet performed by Shakers & Shades. Inspired by artists such as Arctic Monkeys and Jimi Hendrix, Shakers & Shades draw influence from a classic Rock & Roll aesthetic.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/30790f9f569faa6d3136f43ed5746f30/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FZ38PBn7uJRk%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=Z38PBn7uJRk</link>
-            <guid isPermaLink="false">212c86cf-7ded-4f8e-80dc-b5835145325b</guid>
-            <pubDate>Tue, 12 Jul 2016 07:26:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
