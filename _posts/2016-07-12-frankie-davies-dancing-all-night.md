@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T07:17:15.583Z'
+datePublished: '2016-07-12T08:05:47.350Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=nU1tl6nJYlQ'
 keywords:
   - duration
@@ -17,8 +17,8 @@ author:
   - name: FrankieDaviesVEVO
     url: 'https://www.youtube.com/user/FrankieDaviesVEVO'
     avatar: {}
-dateModified: '2016-07-12T07:17:10.126Z'
-title: Frankie Davies - "Dancing All Night"
+dateModified: '2016-07-12T08:05:41.552Z'
+title: Frankie Davies - “Dancing All Night”
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=nU1tl6nJYlQ&feature=applinks'
     type: ios
@@ -62,18 +62,8 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 description: >-
-  Facebook - https://www.facebook.com/frankiedavie... Twitter -
-  https://twitter.com/frankierdavies Instagram -
-  https://instagram.com/frankiedavies Website -
-  http://www.frankiedavies.co.uk/videos  Recorded, Mixed & Produced by Jason
-  Boshoff http://jasonboshoff.com  Lead vocals Recorded by Shuta Shinoda
-  http://www.shutashinoda.co.uk/engineer/  Mastered by Pete Mayer
-  http://petemaher.com/  Recorded in Liverpool's Mersey City Music Studios *
-  Except lead vocals recorded in Hackney Road (Tinroom) Studios  Supported by
-  The Jersey Arts Trust http://arts.je/  All Rights Reserved © & ℗ Frankie
-  Davies  This video was shot entirely on location at The Finsbury (thanks guys)
-  - http://www.thefinsbury.co.uk/contact Enquiries http://www.stokedmusic.co.uk
-  http://vevo.ly/ebP8To
+  A dance driven quasi-narrative video for “Dancing All Night”, by country
+  singer-songwriter Frankie Davies.
 inLanguage: en
 starred: false
 sourcePath: _posts/2016-07-12-frankie-davies-dancing-all-night.md
@@ -85,5 +75,7 @@ _type: VideoObject
 
 ---
 # Frankie Davies - "Dancing All Night"
+
+A dance driven quasi-narrative video for "Dancing All Night", by country singer-songwriter Frankie Davies.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FnU1tl6nJYlQ%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnU1tl6nJYlQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnU1tl6nJYlQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
