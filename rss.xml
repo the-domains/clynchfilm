@@ -4,8 +4,22 @@
         <description><![CDATA[C Lynch]]></description>
         <link>https://thegrid.ai/clynchfilm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 08:06:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 08:13:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/clynchfilm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Showreel]]></title>
+            <description><![CDATA[<article><h1>Showreel</h1><p>2016 Showreel</p></article>]]></description>
+            <link>https://vimeo.com/156086679</link>
+            <guid isPermaLink="false">b1606361-4fd2-49b6-a33c-126d68173c41</guid>
+            <pubDate>Tue, 12 Jul 2016 08:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Callooh Callay - 2015 Promo]]></title>
+            <description><![CDATA[<article><h1>Callooh Callay - 2015 Promo</h1><p>Promotional video for world-renowned cocktail bar Callooh Callay, based in the heart of Shoreditch. Stylised in the theme of "bad 80s porn", the tongue in cheek content aims to focus on the fun & unique experience & atmosphere of the bar itself.</p></article>]]></description>
+            <link>https://vimeo.com/139411466</link>
+            <guid isPermaLink="false">5d2a1177-6dd2-44f5-bb8a-4fc62db60bf3</guid>
+            <pubDate>Tue, 12 Jul 2016 08:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Frankie Davies - “Dancing All Night”]]></title>
             <description><![CDATA[<article><h1>Frankie Davies - “Dancing All Night”</h1><p>A dance driven quasi-narrative video for “Dancing All Night”, by country singer-songwriter Frankie Davies.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d73879503ec9e59d7d9a4e39456f4ef8/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FnU1tl6nJYlQ%2Fmaxresdefault.jpg"></article>]]></description>
@@ -19,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=Z38PBn7uJRk</link>
             <guid isPermaLink="false">212c86cf-7ded-4f8e-80dc-b5835145325b</guid>
             <pubDate>Tue, 12 Jul 2016 07:26:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treehouse Chocolate's Four Drinking Chocolates]]></title>
-            <description><![CDATA[<article><h1>Treehouse Chocolate's Four Drinking Chocolates</h1><p>Winter may be officially over in the Northern Hemisphere, but that doesn't mean hot chocolate has to disappear from people's radar until temperatures cool again. For some of us, it makes for a viable alternative to coffee in the morning-with some serious sugar and cocoa kick.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/707cfeb12d925cddf6493a0f7a931b18979b2c86.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/food-drink/treehouse-chocolate-portland-drinking-chocolate</link>
-            <guid isPermaLink="false">6512e624-3c11-4a47-a116-74eadad95169</guid>
-            <pubDate>Sun, 03 Jul 2016 11:38:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
