@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-12T09:06:19.802Z'
+datePublished: '2016-07-12T09:06:41.837Z'
 isBasedOnUrl: 'https://vimeo.com/158068228'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-12T09:06:09.921Z'
+dateModified: '2016-07-12T09:06:41.104Z'
 title: Rinôçérôse - "Fighting the Machine"
 app_links: []
 publisher:
@@ -17,7 +17,7 @@ description: >-
   to some of the genre’s greatest legends with a no-nonsense, modern
   electro/punk twist.
 sourcePath: _posts/2016-07-12-rinocerose-fighting-the-machine.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
