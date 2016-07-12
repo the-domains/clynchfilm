@@ -1,14 +1,14 @@
-layout_spectrum: 0.3414965264964849
-typography_spectrum: 0.236004687147215
+layout_spectrum: 0.16320196562446654
+typography_spectrum: 0.6110565601848066
 color:
-  brandStrength: 0.20004123146645725
-  lightness: 0.7263598567806184
-  saturation: 0.12528135930188
-  rhythmicContrast: 0.9019291771110147
+  brandStrength: 0.3388977386057377
+  lightness: 0.49373390316031873
+  saturation: 0.020571470260620117
+  rhythmicContrast: 0.9921606678981334
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: C.Lynch
